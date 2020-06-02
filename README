@@ -1,0 +1,16 @@
+A visitor tracking tool using PHP and MySQL 
+
+1) Setup a database using the SQL script in visitor_tracking.sql
+
+2) Setup the database access details in db_connect.php
+
+3) visit the pages
+
+visitor_tracking_page1.php
+visitor_tracking_page2.php
+visitor_tracking_page3.php
+
+- This will log visits into the database
+
+4) View the results in ip_report.php
+
